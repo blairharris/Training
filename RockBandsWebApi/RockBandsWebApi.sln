@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockBandsWebApi", "RockBandsWebApi\RockBandsWebApi.csproj", "{D1D27B86-5528-4E62-A9DF-2CA34975BE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockBandsWebApi.Tests", "RockBandsWebApi.Tests\RockBandsWebApi.Tests.csproj", "{0ABA29CF-C101-480F-A1FB-35451BFC9D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D27B86-5528-4E62-A9DF-2CA34975BE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D27B86-5528-4E62-A9DF-2CA34975BE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D27B86-5528-4E62-A9DF-2CA34975BE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D27B86-5528-4E62-A9DF-2CA34975BE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABA29CF-C101-480F-A1FB-35451BFC9D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABA29CF-C101-480F-A1FB-35451BFC9D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABA29CF-C101-480F-A1FB-35451BFC9D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABA29CF-C101-480F-A1FB-35451BFC9D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
