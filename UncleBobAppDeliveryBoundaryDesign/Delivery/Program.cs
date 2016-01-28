@@ -1,5 +1,5 @@
-﻿using System.Reflection;
-using Delivery;
+﻿using System;
+using System.Reflection;
 using Application;
 using Ninject;
 
@@ -17,6 +17,8 @@ namespace Delivery
 
             Controller controller = new Controller(requestBoundary, presenter);
             controller.Execute();
+
+            Console.ReadLine();
         }
     }
 }
