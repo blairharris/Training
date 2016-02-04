@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNonDivisors", "CountNonDivisors.csproj", "{91C8245A-78A4-4822-A5B5-8477B8E57955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNonDivisors.Tests", "..\CountNonDivisors.Tests\CountNonDivisors.Tests.csproj", "{6BC8DCBA-4F4D-43B5-BF5F-08C9F0A91B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C8245A-78A4-4822-A5B5-8477B8E57955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C8245A-78A4-4822-A5B5-8477B8E57955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C8245A-78A4-4822-A5B5-8477B8E57955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C8245A-78A4-4822-A5B5-8477B8E57955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC8DCBA-4F4D-43B5-BF5F-08C9F0A91B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC8DCBA-4F4D-43B5-BF5F-08C9F0A91B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC8DCBA-4F4D-43B5-BF5F-08C9F0A91B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC8DCBA-4F4D-43B5-BF5F-08C9F0A91B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
