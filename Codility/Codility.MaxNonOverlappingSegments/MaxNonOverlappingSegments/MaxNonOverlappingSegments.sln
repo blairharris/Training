@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNonOverlappingSegments", "MaxNonOverlappingSegments.csproj", "{61773DCE-3EFA-4725-AC58-F82A77025650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNonOverlappingSegments.Tests", "..\MaxNonOverlappingSegments.Tests\MaxNonOverlappingSegments.Tests.csproj", "{A7BC7EDD-9037-449F-B5B0-DADE7739EF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61773DCE-3EFA-4725-AC58-F82A77025650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61773DCE-3EFA-4725-AC58-F82A77025650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61773DCE-3EFA-4725-AC58-F82A77025650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61773DCE-3EFA-4725-AC58-F82A77025650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7BC7EDD-9037-449F-B5B0-DADE7739EF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BC7EDD-9037-449F-B5B0-DADE7739EF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BC7EDD-9037-449F-B5B0-DADE7739EF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BC7EDD-9037-449F-B5B0-DADE7739EF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
